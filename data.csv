@@ -1,0 +1,31 @@
+Aluno,Medição coletada pela rede cabeada,Localizacao,Throughput médio Download,Upload,Latencia (RTT),Jitter,Valor de banda contratada,Percentual do UPLoad,Percentual do Download,Horario,Provedor de Acesso,Ponto de medida do servidor de medição,Rede de acesso,Ferramenta de Medição
+Theo,Não,"Balneário de Carapebus - Serra, ES",240,256,22,5,250,"102,4 %",96 %,24/05/2025 13:59,NV7 Telecom,São Paulo - SP,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",227,209,22,12,250,"83,6 %","90,8 %",24/05/2025 15:57,NV7 Telecom,São Paulo - SP,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",241,251,24,9,250,"100,4 %","96,4 %",24/05/2025 16:33,NV7 Telecom,São Paulo - SP,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",236,249,24,2,250,"99,6 %","94,4 %",24/05/2025 20:38,NV7 Telecom,São Paulo - SP,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",243,221,21,1,250,"88,4 %","97,2 %",25/05/2025 08:16,NV7 Telecom,São Paulo - SP,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",229,238,15,1,250,"95,2 %","91,6 %",24/05/2025 16:00,NV7 Telecom,Rio de Janeiro - RJ,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",243,232,1017,1,250,"92,8 %","97,2 %",24/05/2025 16:04,NV7 Telecom,Rio de Janeiro - RJ,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",241,269,18,13,250,"107,6 %","96,4 %",24/05/2025 16:34,NV7 Telecom,Rio de Janeiro - RJ,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",242,246,16,1,250,"98,4 %","96,8 %",25/05/2025 14:43,NV7 Telecom,Rio de Janeiro - RJ,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",242,198,18,3,250,"79,2 %","96,8 %",24/05/2025 20:37,NV7 Telecom,Rio de Janeiro - RJ,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",242,246,16,1,250,"98,4 %","96,8 %",25/05/2025 14:43,NV7 Telecom,Rio de Janeiro - RJ,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",90,156,66,2,250,"62,4 %",36 %,24/05/2025 16:07,NV7 Telecom,Fortaleza - CE,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",18,120,59,1,250,48 %,"7,2 %",24/05/2025 16:09,NV7 Telecom,Fortaleza - CE,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",3,185,58,2,250,74 %,"1,2 %",24/05/2025 16:36,NV7 Telecom,Fortaleza - CE,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES","5,6",148,58,2,250,"59,2 %","2,2 %",24/05/2025 16:38,NV7 Telecom,Fortaleza - CE,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES","6,9",91,59,6,250,"36,4 %","2,8 %",24/05/2025 20:40,NV7 Telecom,Fortaleza - CE,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",241,239,30,1,250,"95,6 %","96,4 %",25/05/2025 08:41,NV7 Telecom,Brasília - DF,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",242,258,35,2,250,"103,2 %","96,8 %",24/05/2025 20:44,NV7 Telecom,Vitória - ES,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",126,13,51,12,250,"5,2 %","50,4 %",24/05/2025 20:42,NV7 Telecom,Salvador - BA,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",81,14,49,3,250,"5,6 %","32,4 %",25/05/2025 14:37,NV7 Telecom,Salvador - BA,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",240,12,57,1,250,"4,8 %",96 %,25/05/2025 08:42,NV7 Telecom,Recife - PE,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",241,206,30,2,250,"82,4 %","96,4 %",25/05/2025 14:40,NV7 Telecom,Curítiba - PR,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",241,253,32,11,250,"101,2 %","96,4 %",26/05/2025 17:17,NV7 Telecom,Vitória - ES,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES",242,227,30,3,250,"90,8 %","96,8 %",26/05/2025 17:20,NV7 Telecom,Curítiba - PR,Wi-Fi 5Ghz,beta.simet.nic.br
+Theo,Não,"Balneário de Carapebus - Serra, ES","238,75","232,81",233,127,250,"93,1 %","95,5 %",26/05/2025 17:25,NV7 Telecom,"Claro Net Vírtua - POA (Porto Alegre, RS)",Wi-Fi 5Ghz,https://www.speedtest.net/
+Theo,Não,"Balneário de Carapebus - Serra, ES","58,73","227,18",266,153,250,"90,9 %","23,5 %",26/05/2025 17:28,NV7 Telecom,TIM Brasil (Fortaleza - CE),Wi-Fi 5Ghz,https://www.speedtest.net/
+Theo,Não,"Balneário de Carapebus - Serra, ES","123,35","236,02",327,117,250,"94,4 %","49,3 %",26/05/2025 17:30,NV7 Telecom,TIM Brasil (Manaus),Wi-Fi 5Ghz,https://www.speedtest.net/
+Theo,Não,"Balneário de Carapebus - Serra, ES","242,9","244,96",318,129,250,98 %,"97,2 %",26/05/2025 17:32,NV7 Telecom,"Mais Fibra (São Paulo, SP)",Wi-Fi 5Ghz,https://www.speedtest.net/
+Theo,Não,"Balneário de Carapebus - Serra, ES","241,81","85,89",307,111,250,"34,4 %","96,7 %",26/05/2025 17:36,NV7 Telecom,"Claro Móvel (Brasília, DF)",Wi-Fi 5Ghz,https://www.speedtest.net/
+Theo,Não,"Balneário de Carapebus - Serra, ES","242,78","234,09",256,105,250,"93,6 %","97,1 %",26/05/2025 17:43,NV7 Telecom,PoP ES RNP (Vitória - ES),Wi-Fi 5Ghz,https://www.speedtest.net/
